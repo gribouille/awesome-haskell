@@ -1,0 +1,767 @@
+{
+  "title": "Awesome Haskell",
+  "description": "An awesome Haskell list generated with [awesome](https://github.com/gribouille/awesome).",
+  "categories": [
+    {
+      "title": "Awesome Haskell",
+      "categories": [
+        {
+          "title" : "Admin Panels",
+          "description": "Libraries for administrative interfaces.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Algorithms and Design Patterns",
+          "description": "Python implementation of algorithms and design patterns.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Anti-spam",
+          "description": "Libraries for fighting spam.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Asset Management",
+          "description": "Tools for managing, compressing and minifying website assets.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Audio",
+          "description": "Libraries for manipulating audio.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Authentication",
+          "description": "Libraries for implementing authentications schemes.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Build Tools",
+          "description": "Compile software from source code.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Built-in Classes Enhancement",
+          "description": "Libraries for enhancing Python built-in classes.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "CMS",
+          "description": "Content Management Systems.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Caching",
+          "description": "Libraries for caching data.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "ChatOps Tools",
+          "description": "Libraries for chatbot development.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Cluster Computing",
+          "description": "Frameworks and libraries for Cluster Computing.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Code Analysis",
+          "description": "Tools of static analysis, linters and code quality checkers.",
+          "categories": [
+            {
+              "title": "Code Analysis",
+              "items": [
+              ]
+            },
+            {
+              "title": "Static Type Checkers",
+              "items": [
+              ]
+            },
+            {
+              "title": "Static Type Annotations Generators",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Command-line Tools",
+          "description": "Libraries for building command-line application.",
+          "categories": [
+            {
+              "title": "Command-line Application Development",
+              "items": [
+              ]
+            },
+            {
+              "title": "Terminal Rendering",
+              "items": [
+              ]
+            },
+            {
+              "title": "Productivity Tools",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Compatibility",
+          "description": "Libraries for migrating from Python 2 to 3.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Computer Vision",
+          "description": "Libraries for computer vision.",
+          "items": [
+
+          ]
+        },
+        {
+          "title" : "Concurrency and Parallelism",
+          "description": "Libraries for concurrent and parallel execution.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Configuration",
+          "description": "Libraries for storing and parsing configuration options.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Cryptography",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Data Analysis",
+          "description": "Libraries for data analyzing.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Data Validation",
+          "description": "Libraries for validating data. Used for forms in many cases.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Data Visualization",
+          "description": "Libraries for visualizing data.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Database",
+          "description": "Databases implemented in Python.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Database Drivers",
+          "description": "Libraries for connecting and operating databases.",
+          "categories": [
+            {
+              "title": "MySQL",
+              "items": [
+              ]
+            },
+            {
+              "title": "PostgreSQL",
+              "items": [
+              ]
+            },
+            {
+              "title": "Other Relational Databases",
+              "items": [
+              ]
+            },
+            {
+              "title": "NoSQL Databases",
+              "items": [
+              ]
+            },
+            {
+              "title": "Asynchronous Clients",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Date and Time",
+          "description": "Libraries for working with dates and times.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Debugging Tools",
+          "description": "Libraries for debugging code.",
+          "categories": [
+            {
+              "title": "pdb-like Debugger",
+              "items": [
+              ]
+            },
+            {
+              "title": "Profiler",
+              "items": [
+              ]
+            },
+            {
+              "title": "Others",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Deep Learning",
+          "description": "Frameworks for Neural Networks and Deep Learning.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "DevOps Tools",
+          "description": "Software and libraries for DevOps.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Distribution",
+          "description": "Libraries to create packaged executables for release distribution.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Documentation",
+          "description": "Libraries for generating project documentation.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Downloader",
+          "description": "Libraries for downloading.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "E-commerce",
+          "description": "Frameworks and libraries for e-commerce and payments.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Editor Plugins and IDEs",
+          "categories": [
+            {
+              "title": "Emacs",
+              "items": [
+              ]
+            },
+            {
+              "title": "Sublime Text",
+              "items": [
+              ]
+            },
+            {
+              "title": "Vim",
+              "items": [
+              ]
+            },
+            {
+              "title": "Visual Studio",
+              "items": [
+              ]
+            },
+            {
+              "title": "Visual Studio Code",
+              "items": [
+              ]
+            },
+            {
+              "title": "IDE",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Email",
+          "description": "Libraries for sending and parsing email.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Environment Management",
+          "description": "Libraries for Python version and environment management.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Files",
+          "description": "Libraries for file manipulation and MIME type detection.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Foreign Function Interface",
+          "description": "Libraries for providing foreign function interface.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Forms",
+          "description": "Libraries for working with forms.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Functional Programming",
+          "description": "Functional Programming with Python.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "GUI",
+          "description": "Libraries for working with graphical user interface applications.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Game Development",
+          "description": "Awesome game development libraries.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Geolocation",
+          "description": "Libraries for geocoding addresses and working with latitudes and longitudes.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "HTML Manipulation",
+          "description": "Libraries for working with HTML and XML.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "HTTP",
+          "description": "Libraries for working with HTTP.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Hardware",
+          "description": "Libraries for programming with hardware.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Image Processing",
+          "description": "Libraries for manipulating images.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Implementations",
+          "description": "Implementations of Python.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Internationalization",
+          "description": "Libraries for working with i18n.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Job Scheduler",
+          "description": "Libraries for scheduling jobs.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Logging",
+          "description": "Libraries for generating and working with logs.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Machine Learning",
+          "description": "Libraries for Machine Learning.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Microsoft Windows",
+          "description": "Python programming on Microsoft Windows.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Miscellaneous",
+          "description": "Useful libraries or tools that don't fit in the categories above.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Natural Language Processing",
+          "description": "Libraries for working with human languages.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Network Virtualization",
+          "description": "Tools and libraries for Virtual Networking and SDN (Software Defined Networking).",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Networking",
+          "description": "Libraries for networking programming.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "News Feed",
+          "description": "Libraries for building user's activities.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "ORM",
+          "description": "Libraries that implement Object-Relational Mapping or data mapping techniques.",
+          "categories": [
+            {
+              "title": "Relational Databases",
+              "items": [
+              ]
+            },
+            {
+              "title": "NoSQL Databases",
+              "items": [
+              ]
+            },
+            {
+              "title": "Others",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Package Management",
+          "description": "Libraries for package and dependency management.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Package Repositories",
+          "description": "Local PyPI repository server and proxies.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Permissions",
+          "description": "Libraries that allow or deny users access to data or functionality.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Processes",
+          "description": "Libraries for starting and communicating with OS processes.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Queue",
+          "description": "Libraries for working with event and task queues.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Recommender Systems",
+          "description": "Libraries for building recommender systems.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "RESTful API",
+          "description": "Libraries for developing RESTful APIs.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Robotics",
+          "description": "Libraries for robotics.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "RPC Servers",
+          "description": "RPC-compatible servers.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Science",
+          "description": "Libraries for scientific computing.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Search",
+          "description": "Libraries and software for indexing and performing search queries on data.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Serialization",
+          "description": "Libraries for serializing complex data types",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Serverless Frameworks",
+          "description": "Frameworks for developing serverless Python code.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Specific Formats Processing",
+          "description": "Libraries for parsing and manipulating specific text formats.",
+          "categories": [
+            {
+              "title": "General",
+              "items": [
+              ]
+            },
+            {
+              "title": "Office",
+              "items": [
+              ]
+            },
+            {
+              "title": "PDF",
+              "items": [
+              ]
+            },
+            {
+              "title": "Markdown",
+              "items": [
+              ]
+            },
+            {
+              "title": "YAML",
+              "items": [
+              ]
+            },
+            {
+              "title": "CSV",
+              "items": [
+              ]
+            },
+            {
+              "title": "Archive",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Static Site Generator",
+          "description": "Static site generator is a software that takes some text + templates as input and produces HTML files on the output.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Tagging",
+          "description": "Libraries for tagging items.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Template Engine",
+          "description": "Libraries and tools for templating and lexing.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Testing",
+          "description": "Libraries for testing codebases and generating test data.",
+          "categories": [
+            {
+              "title": "Testing Frameworks",
+              "items": [
+              ]
+            },
+            {
+              "title": "Test Runners",
+              "items": [
+              ]
+            },
+            {
+              "title": "GUI / Web Testing",
+              "items": [
+              ]
+            },
+            {
+              "title": "Mock",
+              "items": [
+              ]
+            },
+            {
+              "title": "Object Factories",
+              "items": [
+              ]
+            },
+            {
+              "title": "Code Coverage",
+              "items": [
+              ]
+            },
+            {
+              "title": "Fake Data",
+              "items": [
+              ]
+            },
+            {
+              "title": "Error Handler",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Text Processing",
+          "description": "Libraries for parsing and manipulating plain texts.",
+          "categories": [
+            {
+              "title": "General",
+              "items": [
+              ]
+            },
+            {
+              "title": "Slugify",
+              "items": [
+              ]
+            },
+            {
+              "title": "Parser",
+              "items": [
+              ]
+            }
+          ]
+        },
+        {
+          "title" : "Third-party APIs",
+          "description": "Libraries for accessing third party services APIs.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "URL Manipulation",
+          "description": "Libraries for parsing URLs.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Video",
+          "description": "Libraries for manipulating video and GIFs.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "WSGI Servers",
+          "description": "WSGI-compatible web servers.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Web Content Extracting",
+          "description": "Libraries for extracting web contents.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Web Crawling & Web Scraping",
+          "description": "Libraries to automate data extraction from websites.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Web Frameworks",
+          "description": "Full stack web frameworks.",
+          "items": [
+          ]
+        },
+        {
+          "title" : "WebSocket",
+          "description": "Libraries for working with WebSocket.",
+          "items": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Services",
+      "description": "Online tools and APIs to simplify development.",
+      "categories": [
+        {
+          "title" : "Continuous Integration",
+          "items": [
+          ]
+        },
+        {
+          "title" : "Code Quality",
+          "items": [
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "description": "Where to discover new Python libraries.",
+      "categories": [
+        {
+          "title": "Podcasts",
+          "items": [
+          ]
+        },
+        {
+          "title": "Twitter",
+          "items": [
+          ]
+        },
+        {
+          "title": "Websites",
+          "items": [
+          ]
+        },
+        {
+          "title": "Weekly",
+          "items": [
+          ]
+        }
+      ]
+    }
+  ]
+}
